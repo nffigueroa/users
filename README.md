@@ -10,7 +10,7 @@ Response:
 There are 4 Components  for the application 
 
 ## List
-It request the data from the API and send it to the children for rendering.
+It requests the data from the API and send it to the children for rendering.
 
 ## Item
 It is rendered inside of a flatlist , it has all the data about the user profiles and prints a card one by one whit a summary about the user.
@@ -19,7 +19,7 @@ It is rendered inside of a flatlist , it has all the data about the user profile
 It is rendered when the user taps over the card , it prints details about the user tapped, and also a button which triggers the camera function.
 
 ## Camera
-It has the react-native-camera implementation and when the user takes the photo , this component returns to the parent the uri of the photo.
+It has the react-native-camera implementation and when the user takes the photo this component returns to the parent the uri of the photo.
 
 # Redux
 The application is using redux for storage the user data in the whole application.
