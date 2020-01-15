@@ -21,3 +21,6 @@ It is rendered when the user taps over the card , it prints details about the us
 ## Camera
 It has the react-native-camera implementation and when the user takes the photo , this component returns to the parent the uri of the photo.
 
+# Redux
+The application is using redux for storage the user data in the whole application.
+
